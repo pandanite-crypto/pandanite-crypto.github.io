@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://bamboo-crypto.github.io"
+url: "https://pandanite-crypto.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Bamboo Blockchain                                   # site's title
