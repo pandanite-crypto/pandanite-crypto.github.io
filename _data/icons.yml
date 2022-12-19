@@ -6,7 +6,7 @@ calendly:
 dribbble:
 facebook:
 flickr:
-github: sylhare
+github: pandanite-crypto
 gitlab:
 google-scholar:   # e.g. "WXAAOb0AAAAJ"
 instagram:
@@ -15,7 +15,7 @@ keybase:
 linkedin:
 mail:             # e.g. "sam@mail.com"
 map:              # e.g. "34.0886/-118.3191"
-mastodon:         # e.g. "fostodon.org/@sam"
+mastodon:         techhub.social/@pandanite
 matrix:           # e.g. "@sam:matrix.org"
 medium:
 patreon:
@@ -27,10 +27,10 @@ sms:              # e.g. "+11111111111"
 stack-exchange:   # e.g. "123456789"
 stack-overflow:   # e.g. "123456789"
 steam:
-telegram:
+telegram: pandanite
 tumblr:
 twitch:
-twitter:
+twitter: @pdn_pandanite
 vimeo:
 vk:
 wordpress:
